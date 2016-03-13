@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.java.dev.jintention</groupId>
+  <artifactId>jin-collections</artifactId>
+  <versioning>
+    <versions>
+      <version>0.9.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160313230713</lastUpdated>
+  </versioning>
+</metadata>
